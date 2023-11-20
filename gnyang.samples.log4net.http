@@ -1,0 +1,6 @@
+@gnyang.samples.log4net_HostAddress = http://localhost:5236
+
+GET {{gnyang.samples.log4net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
